@@ -1,1 +1,1 @@
-print("Ini adalah halaman untuk fitur keranjang belanja")
+print("Ini adalah halaman untuk fitur keranjang belanja siap untuk production")

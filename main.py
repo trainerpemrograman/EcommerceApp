@@ -1,0 +1,1 @@
+print("Ini adalah halaman utama aplikasi Ecommerce")

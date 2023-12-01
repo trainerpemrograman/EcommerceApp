@@ -1,2 +1,2 @@
-def fungsi_fitur_a():
-    print("Fitur A")
+def fungsi_fitur_b():
+    print("Fitur B")

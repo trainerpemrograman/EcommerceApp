@@ -1,1 +1,2 @@
-print("Ini adalah halaman utama aplikasi Ecommerce")
+def fungsi_fitur_a():
+    print("Fitur A")

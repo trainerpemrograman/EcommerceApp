@@ -1,2 +1,3 @@
-def fungsi_fitur_production():
-    print("Fitur Production fitur a yang terbaru")
+print("Ini adalah halaman utama aplikasi Ecommerce")
+print("Tambahan fitur untuk aplikasi Ecommerce")
+
